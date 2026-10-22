@@ -39,7 +39,7 @@ window.DATOS.patrocinios = {
         "Valla publicitaria de 3 × 1 m en el campo municipal",
         "Logo grande en la portada de esta web",
         "Mención en todas las redes sociales del club",
-        "4 entradas de palco para todos los partidos en casa"
+        "Carnet de abonado gratuito"
       ],
       foto: "img/patrocinio-principal.jpg",
       fotoAlt: "Camiseta del Club Deportivo Rus E.F. con el patrocinador principal",
