@@ -100,7 +100,7 @@
   var filtros = $("[data-filtros-calendario]");
   var hoy = hoyISO();
   var partidos = (Array.isArray(CALENDARIO.partidos) ? CALENDARIO.partidos : []).slice()
-    .sort(function (a, b) { return String(a.fecha || "").localeCompare(String(b.fecha || "")); });
+    .sort(function (a, b) { return Number(a.jornada) - Number(b.jornada); });
 
   function signoResultado(p) {
     if (!p.resultado) return "";
