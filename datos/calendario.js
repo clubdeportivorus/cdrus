@@ -58,5 +58,14 @@ window.DATOS.calendario = {
    { jornada: 9, fecha: "2026-11-08", hora: "", rival: "C.D. ATLÉTICO MENGÍBAR", local: true, resultado: "", golesFavor: null, golesContra: null },
    { jornada: 10, fecha: "2026-11-15", hora: "", rival: "RECREATIVO BAILÉN C.F.", local: false, resultado: "", golesFavor: null, golesContra: null },
    { jornada: 11, fecha: "2026-11-22", hora: "", rival: "CLUB DEPORTIVO REALEB", local: true, resultado: "", golesFavor: null, golesContra: null },
-  ]
-};
+ { jornada: 12, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 13, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 14, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 15, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 16, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 17, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 18, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 19, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 20, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 21, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+{ jornada: 22, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
