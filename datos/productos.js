@@ -76,19 +76,7 @@ window.DATOS.productos = {
       stock: true
     },
  
-    {
-      nombre: "Taza del club",
-      precio: "10 €",
-      antes: "12 €",
-      categoria: "Regalos",
-      descripcion: "Taza de cerámica con el escudo del club.",
-      tallas: [],
-      foto: "img/producto-taza.jpg",
-      fotoAlt: "Taza con el escudo del Club Deportivo Rus E.F.",
-      destacado: true,
-      etiqueta: "Oferta",
-      stock: true
-    },
+   
     {
       nombre: "Equipación de portero",
       precio: "45 €",
