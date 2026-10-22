@@ -69,3 +69,5 @@ window.DATOS.calendario = {
 { jornada: 20, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
 { jornada: 21, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
 { jornada: 22, fecha: "", hora: "", rival: "POR CONFIRMAR", local: null, resultado: "", golesFavor: null, golesContra: null },
+  ]
+};
