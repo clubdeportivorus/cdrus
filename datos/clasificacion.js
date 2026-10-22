@@ -23,6 +23,4 @@ window.DATOS.clasificacion = {
     { equipo: "CLUB DEPORTIVO LOS GACHIS FUTSAL", pj: 5, g: 0, e: 0, p: 5, golesFavor: 3, golesContra: 20, puntos: 0, club: false }
   ]
 };
-    { equipo: "CLUB DEPORTIVO LOS GACHIS FUTSAL",     pj: 3, g: 0, e: 0, p: 3, golesFavor: 2,  golesContra: 15, puntos: 0, club: false }
-  ]
-};
+
