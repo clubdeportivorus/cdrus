@@ -50,7 +50,7 @@ window.DATOS.calendario = {
     //       CLUB DEPORTIVO REALEB · VILLARGORDO C.F. ·
     //       CLUB DEPORTIVO LOS GACHIS FUTSAL
 
-    { jornada: 4,  fecha: "", hora: "", rival: "", local: true,  resultado: "", golesFavor: null, golesContra: null },
+   { jornada: 4, fecha: "2026-10-04", hora: "", rival: "C.D. CANENA ATLÉTICO", local: true, resultado: "3-2", golesFavor: 3, golesContra: 2 },
     { jornada: 5,  fecha: "", hora: "", rival: "", local: false, resultado: "", golesFavor: null, golesContra: null },
     { jornada: 6,  fecha: "", hora: "", rival: "", local: true,  resultado: "", golesFavor: null, golesContra: null },
     { jornada: 7,  fecha: "", hora: "", rival: "", local: false, resultado: "", golesFavor: null, golesContra: null },
