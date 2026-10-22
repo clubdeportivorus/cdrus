@@ -75,19 +75,7 @@ window.DATOS.productos = {
       etiqueta: "",
       stock: true
     },
-    {
-      nombre: "Bufanda de aficionado",
-      precio: "15 €",
-      antes: "",
-      categoria: "Accesorios",
-      descripcion: "Bufanda tejida con los colores del club, para la grada.",
-      tallas: [],
-      foto: "img/producto-bufanda.jpg",
-      fotoAlt: "Bufanda del Club Deportivo Rus E.F.",
-      destacado: false,
-      etiqueta: "",
-      stock: true
-    },
+ 
     {
       nombre: "Taza del club",
       precio: "10 €",
