@@ -36,7 +36,7 @@ window.DATOS.patrocinios = {
       descripcion: "La máxima presencia de tu marca en el club.",
       incluye: [
         "Nombre en el pecho de la camiseta del primer equipo",
-        "Valla publicitaria de 3 × 1 m en el campo municipal",
+        "Valla publicitaria de 2 × 1 m en el campo municipal",
         "Logo grande en la portada de esta web",
         "Mención en todas las redes sociales del club",
         "Carnet de abonado gratuito"
