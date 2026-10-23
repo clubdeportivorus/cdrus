@@ -55,7 +55,7 @@ window.DATOS.patrocinios = {
         "Valla publicitaria de 2 × 1 m en el campo municipal",
         "Logo mediano en la página de patrocinadores",
         "Mención en las redes sociales del club",
-        "2 entradas de palco para los partidos en casa"
+        "Carnet de abonado gratuito"
       ],
       foto: "img/patrocinio-oro.jpg",
       fotoAlt: "Valla publicitaria en el campo municipal de Rus",
@@ -70,7 +70,7 @@ window.DATOS.patrocinios = {
       incluye: [
         "Logo pequeño en la página de patrocinadores",
         "Mención en las redes sociales del club",
-        "2 entradas para los partidos en casa"
+        "Carnet de abonado gratuito"
       ],
       foto: "img/patrocinio-plata.jpg",
       fotoAlt: "Afición del Club Deportivo Rus E.F. en la grada",
