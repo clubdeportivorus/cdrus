@@ -3,24 +3,21 @@ window.DATOS = window.DATOS || {};
 window.DATOS.clasificacion = {
   competicion: "Liga provincial de Jaén",
   grupo: "",
-  jornada: 6,
-  actualizado: "2026-10-22",
-
-  fuenteTexto: "Clasificación de la RFAF tras la jornada 6.",
-  fuenteUrl: "https://www.universorfaf.es/competitions/classification/48466104?group=48466107&season=22&delegation=7&round=6",
-
+  jornada: 7,
+  actualizado: "2026-10-25",
+  fuenteTexto: "Clasificación tras la jornada 7.",
+  fuenteUrl: "https://www.universorfaf.es/competitions/classification/48466104?group=48466107&season=22&delegation=7&round=7",
   equipos: [
-    { equipo: "RECREATIVO DE BAILEN C.F.", pj: 5, g: 5, e: 0, p: 0, golesFavor: 17, golesContra: 9, puntos: 15, club: false },
-    { equipo: "BAÑOS CLUB DEPORTIVO 2022", pj: 6, g: 4, e: 0, p: 2, golesFavor: 14, golesContra: 8, puntos: 12, club: false },
-    { equipo: "CLUB DEPORTIVO RUS EQUIPOS DE FUTBOL", pj: 5, g: 4, e: 0, p: 1, golesFavor: 12, golesContra: 8, puntos: 12, club: true },
-    { equipo: "C.D. ATLETICO MENGIBAR", pj: 5, g: 3, e: 1, p: 1, golesFavor: 12, golesContra: 8, puntos: 10, club: false },
-    { equipo: "IBROS C.F.", pj: 6, g: 3, e: 1, p: 2, golesFavor: 11, golesContra: 8, puntos: 10, club: false },
-    { equipo: "C.D. CANENA ATLETICO", pj: 5, g: 2, e: 2, p: 1, golesFavor: 16, golesContra: 5, puntos: 8, club: false },
-    { equipo: "VILLARGORDO C.F.", pj: 6, g: 2, e: 2, p: 2, golesFavor: 9, golesContra: 10, puntos: 8, club: false },
-    { equipo: "U.D. GUARROMAN", pj: 6, g: 2, e: 0, p: 4, golesFavor: 10, golesContra: 13, puntos: 6, club: false },
-    { equipo: "C.D. LUPION ATLETICO C.F.", pj: 6, g: 1, e: 1, p: 4, golesFavor: 6, golesContra: 16, puntos: 4, club: false },
-    { equipo: "CLUB DEPORTIVO REALEB", pj: 5, g: 0, e: 1, p: 4, golesFavor: 4, golesContra: 9, puntos: 1, club: false },
-    { equipo: "CLUB DEPORTIVO LOS GACHIS FUTSAL", pj: 5, g: 0, e: 0, p: 5, golesFavor: 3, golesContra: 20, puntos: 0, club: false }
+    { equipo: "Rvo. Bailén C.F.", pj: 6, g: 6, e: 0, p: 0, golesFavor: 21, golesContra: 10, puntos: 18, club: false },
+    { equipo: "Baños C.D. 2022", pj: 7, g: 5, e: 0, p: 2, golesFavor: 16, golesContra: 9, puntos: 15, club: false },
+    { equipo: "CD Rus EF", pj: 6, g: 4, e: 0, p: 2, golesFavor: 13, golesContra: 10, puntos: 12, club: true },
+    { equipo: "C.D. Canena Atlético", pj: 6, g: 3, e: 2, p: 1, golesFavor: 18, golesContra: 6, puntos: 11, club: false },
+    { equipo: "Villargordo C.F.", pj: 7, g: 3, e: 2, p: 2, golesFavor: 11, golesContra: 11, puntos: 11, club: false },
+    { equipo: "Atlético Mengíbar", pj: 6, g: 3, e: 1, p: 2, golesFavor: 13, golesContra: 10, puntos: 10, club: false },
+    { equipo: "Ibros C.F.", pj: 6, g: 3, e: 1, p: 2, golesFavor: 11, golesContra: 8, puntos: 10, club: false },
+    { equipo: "U.D. Guarromán", pj: 7, g: 3, e: 0, p: 4, golesFavor: 11, golesContra: 13, puntos: 9, club: false },
+    { equipo: "Lupión Atlético", pj: 7, g: 1, e: 1, p: 5, golesFavor: 7, golesContra: 20, puntos: 4, club: false },
+    { equipo: "C.D. Realeb", pj: 6, g: 0, e: 1, p: 5, golesFavor: 4, golesContra: 10, puntos: 1, club: false },
+    { equipo: "C.D. Los Gachis", pj: 6, g: 0, e: 0, p: 6, golesFavor: 4, golesContra: 22, puntos: 0, club: false }
   ]
 };
-
