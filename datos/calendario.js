@@ -54,7 +54,7 @@ window.DATOS.calendario = {
     { jornada: 5, fecha: "2026-10-10", hora: "19:30", rival: "CLUB DEPORTIVO LOS GACHIS FUTSAL", local: false, resultado: "2-1", golesFavor: 2, golesContra: 1 },
     { jornada: 6, fecha: "", hora: "", rival: "DESCANSA", local: true, resultado: "", golesFavor: null, golesContra: null },
   { jornada: 7, fecha: "2026-10-25", hora: "18:00", rival: "BAÑOS CLUB DEPORTIVO", local: true, resultado: "1-2", golesFavor: 1, golesContra: 2 },
-   { jornada: 8, fecha: "2026-11-02", hora: "", rival: "VILLARGORDO C.F.", local: false, resultado: "", golesFavor: null, golesContra: null },
+   { jornada: 8, fecha: "2026-11-02", hora: "17,30", rival: "VILLARGORDO C.F.", local: false, resultado: "", golesFavor: null, golesContra: null },
    { jornada: 9, fecha: "2026-11-08", hora: "", rival: "C.D. ATLÉTICO MENGÍBAR", local: true, resultado: "", golesFavor: null, golesContra: null },
    { jornada: 10, fecha: "2026-11-15", hora: "", rival: "RECREATIVO BAILÉN C.F.", local: false, resultado: "", golesFavor: null, golesContra: null },
    { jornada: 11, fecha: "2026-11-22", hora: "", rival: "CLUB DEPORTIVO REALEB", local: true, resultado: "", golesFavor: null, golesContra: null },
