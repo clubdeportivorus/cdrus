@@ -11,27 +11,7 @@
 <meta property="og:description" content="Historia, calendario, clasificación, patrocinadores y contacto del Club Deportivo Rus E.F.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230b2545'/><text x='32' y='44' font-size='34' font-family='sans-serif' font-weight='bold' text-anchor='middle' fill='%23e63946'>R</text></svg>">
 <link rel="stylesheet" href="css/estilos.css">
-   aviso.hidden = true;
-    iniciarAnalytics();
-  };
-
-  document.getElementById('rechazar-cookies').onclick = function () {
-    localStorage.setItem(clave, 'rechazadas');
-    aviso.hidden = true;
-    location.reload();
-  };
-
-  cambiar.onclick = mostrarAviso;
-
-  const eleccion = localStorage.getItem(clave);
-  if (eleccion === 'aceptadas') {
-    aviso.hidden = true;
-    iniciarAnalytics();
-  } else if (eleccion === 'rechazadas') {
-    aviso.hidden = true;
-  }
-});
-</script>
+   
 </head>
 <body>
 
