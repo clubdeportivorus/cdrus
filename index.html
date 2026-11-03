@@ -69,6 +69,10 @@ document.addEventListener('DOMContentLoaded', function () {
   };
 
   document.getElementById('rechazar-cookies').onclick = function () {
+     ['_ga', '_ga_WJZPJ1EGJR'].forEach(function (nombre) {
+      document.cookie = nombre + '=; Max-Age=0; path=/';
+      document.cookie = nombre + '=; Max-Age=0; path=/; domain=clubdeportivorus.github.io';
+    });
     localStorage.setItem(clave, 'rechazadas');
     aviso.hidden = true;
     location.reload();
