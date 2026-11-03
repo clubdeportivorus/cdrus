@@ -48,7 +48,7 @@ window.DATOS.config = {
     direccion: "Calle Tercia, 6",
     localidad: "Rus (Jaén)",
     telefono: "654 86 33 21",
-    email: "deportivorus@gmail.es",
+    email: "deportivorus@gmail.com",
     horario: "Lunes a viernes, de 18:00 a 20:00"
   },
 
