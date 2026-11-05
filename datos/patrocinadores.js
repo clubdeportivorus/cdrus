@@ -9,5 +9,5 @@ window.DATOS.patrocinadores = {
   lista: [
    { nombre: "Taller Antonio Anguís", tipo: "Colaborador", logo: "img/tallerantonioanguis.jpg", logoAlt: "Logo del Taller Antonio Anguís", web: "https://suminis.com/distribuidor/taller-antonio-anguis/" },
     { nombre: "Gesca", tipo: "Colaborador", logo: "img/gesca.JPG", logoAlt: "Logo de Gesca", web: "https://gesca.es" },
-   { nombre: "Suroliva", tipo: "Colaborador", logo: "img/suroliva.jpg", logoAlt: "Logo de Suroliva", web: "https://suroliva2000.es" }
+   { nombre: "Suroliva", tipo: "Colaborador", logo: "img/suroliva.jpg", logoAlt: "Logo de Suroliva", web: "https://suroliva2000.es" }]
 };
