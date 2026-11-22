@@ -57,7 +57,7 @@ window.DATOS.calendario = {
    { jornada: 8, fecha: "2026-11-02", hora: "17,30", rival: "VILLARGORDO C.F.", local: false, resultado: "5-1", golesFavor: 1, golesContra: 5 },
   { jornada: 9, fecha: "2026-11-08", hora: "", rival: "C.D. ATLÉTICO MENGÍBAR", local: true, resultado: "2-1", golesFavor: 2, golesContra: 1 },
    { jornada: 10, fecha: "2026-11-15", hora: "", rival: "RECREATIVO BAILÉN C.F.", local: false, resultado: "2-3", golesFavor: 3, golesContra: 2 },
-   { jornada: 11, fecha: "2026-11-22", hora: "", rival: "CLUB DEPORTIVO REALEB", local: true, resultado: "", golesFavor: null, golesContra: null },
+   { jornada: 11, fecha: "2026-11-22", hora: "", rival: "CLUB DEPORTIVO REALEB", local: true, resultado: "1-3", golesFavor: 1, golesContra: 3 },
  { jornada: 12, fecha: "2026-11-29", hora: "", rival: "IBROS C.F.", local: true, resultado: "", golesFavor: null, golesContra: null },
 { jornada: 13, fecha: "2026-12-13", hora: "", rival: "U.D. GUARROMÁN", local: false, resultado: "", golesFavor: null, golesContra: null },
 { jornada: 14, fecha: "2027-01-10", hora: "", rival: "C.D. LUPIÓN ATLÉTICO C.F.", local: true, resultado: "", golesFavor: null, golesContra: null },
