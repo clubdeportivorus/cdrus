@@ -56,7 +56,7 @@ window.DATOS.productos = {
       categoria: "Ropa",
       descripcion: "Camiseta de juego del primer equipo, tejido transpirable.",
       tallas: ["S", "M", "L", "XL", "XXL"],
-      foto: "img/producto-camiseta.jpg",
+      "camiseta-oficial.png",
       fotoAlt: "Camiseta oficial del Club Deportivo Rus E.F.",
       destacado: true,
       etiqueta: "Novedad",
